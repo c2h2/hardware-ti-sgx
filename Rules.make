@@ -20,7 +20,7 @@ CSTOOL_PATH=$(CSTOOL_DIR)/bin
 KERNEL_INSTALL_DIR=$(ANDROID_ROOT_DIR)/kernel
 
 #set filesystem path
-TARGETFS_INSTALL_DIR=$(ANDROID_ROOT_DIR)/device/ti/beagleboneblack/sgx
+TARGETFS_INSTALL_DIR=$(ANDROID_ROOT_DIR)/device/beagleboard/beagleboneblack/sgx
 
 #Android 
 ANDROID_DISCIMAGE=$(TARGETFS_INSTALL_DIR)/
